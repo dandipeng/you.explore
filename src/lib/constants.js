@@ -49,7 +49,7 @@ export const PROFILES = {
   },
   bluesky: {
     title: 'Bluesky',
-    url: 'https://staging.bsky.app/profile/onur.dev'
+    url: 'https://staging.bsky.app/profile/you.explore'
   },
   readcv: {
     title: 'Read.cv',

@@ -1,5 +1,5 @@
-export const sharedTitle = 'Onur Şuyalçınkaya'
-export const sharedDescription = 'Software Engineer, DJ, writer, and minimalist, based in Amsterdam, The Netherlands'
+export const sharedTitle = 'Zhiyou 之莜'
+export const sharedDescription = 'Writer, reader, and idealist, based in LA, USA'
 export const sharedImage = {
   width: 1200,
   height: 630,

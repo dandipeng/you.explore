@@ -7,10 +7,10 @@ export async function GET() {
   const allPosts = await getAllPosts()
   const sortedPosts = getSortedPosts(allPosts)
   const date = new Date()
-  const siteURL = 'https://onur.dev'
+  const siteURL = 'https://you.explore'
   const author = {
-    name: 'Onur Şuyalçınkaya',
-    link: 'https://onur.dev'
+    name: 'Zhiyou 之莜',
+    link: 'https://you.explore'
   }
 
   const feed = new Feed({
