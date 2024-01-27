@@ -21,16 +21,16 @@ export default async function Home() {
 
   return (
     <ScrollArea className="flex flex-col" hasScrollTitle>
-      <FloatingHeader scrollTitle="Dandi 丹迪" />
+      <FloatingHeader scrollTitle="Zhiyou 之莜" />
       <div className="content-wrapper">
         <div className="content">
           <PageTitle title="Home" className="lg:hidden" />
           <p>
-            {`Hi 👋 I'm Dandi (丹迪 in Chinese), a data scientist, writer, and idealist based in LA,
+            {`Hi 👋 I'm Zhiyou (之莜 in Chinese), a mind explorer, writer, and idealist based in LA,
           USA.`}
           </p>
           <p>
-            I am a Data Scientist in work, reader, writer and listener in life. I'm interested in people, obsessed with experiencing different ones' lives in books and talkings.
+            I'm interested in people, obsessed with experiencing different ones' lives in books and talkings.
           </p>
           <Button asChild variant="link" className="inline px-0">
             <Link href="/writing">
